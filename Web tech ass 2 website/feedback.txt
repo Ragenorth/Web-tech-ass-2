@@ -1,8 +1,9 @@
 Name: Lu
-Email: lujienchen@gmail.com
-Comment: hi
-
-Name: hi
 Email: bcs22020007@student.uts.edu.my
-Comment: urmom gay
+Phone:+60_Malaysia
+Department:w
+Address:w
+Date of birth: 2024-03-06
+Gender:male
+Comment: w
 
